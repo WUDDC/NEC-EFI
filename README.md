@@ -1,0 +1,2 @@
+# NEC-EFI
+NEC VK23、Lenovo X260 EFI
